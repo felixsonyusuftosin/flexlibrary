@@ -1,0 +1,7 @@
+*:focus {    outline: none;}
+input[type="password"]{  font-family:Verdana,sans-serif;  font-size:25px;}
+*:focus {    outline: none;}input, textarea{   outline: none;}
+.inline-block{display:inline-block;}
+::-webkit-input-placeholder {  color: #d2d2d2; text-align:left; font-size:15px!important;}:-moz-placeholder { /* Firefox 18- */  color: #d2d2d2;   text-align:left; font-size:15px!important; }::-moz-placeholder {  /* Firefox 19+ */   color: #d2d2d2;  text-align:left; font-size:15px!important;
+}:-ms-input-placeholder {     color: #d2d2d2;  text-align:left; font-size:15px!important;}
+.fl{float:left; } .fr{float:right;} .overflow{overflow:hidden;} .inline{display:inline;}

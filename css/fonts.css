@@ -1,0 +1,156 @@
+@font-face {
+  font-family: Alega OT;
+  src: url('typos/Alega OT/AlegaOT-Bold.eot');
+  src: url('typos/Alega OT/AlegaOT-Bold.eot') format('☺'),
+       url('typos/Alega OT/AlegaOT-Bold.ttf') format('truetype');
+     
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: Alega OT;
+  src: url('typos/Alega OT/AlegaOT-Boldlta.eot');
+  src: url('typos/Alega OT/AlegaOT-Boldlta.eot') format('☺'),
+       url('typos/Alega OT/AlegaOT-Boldlta.ttf') format('truetype');
+     
+  font-weight: bolder;
+  font-style: normal;
+}
+@font-face {
+  font-family: Alega OT;
+  src: url('typos/Alega OT/AlegaOT.eot');
+  src: url('typos/Alega OT/AlegaOT.eot') format('☺'),
+       url('typos/Alega OT/AlegaOT.ttf') format('truetype');
+     
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Alega OT;
+  src: url('typos/Alega OT/AlegaOT-Light.eot');
+  src: url('typos/Alega OT/AlegaOT-Light.eot') format('☺'),
+       url('typos/Alega OT/AlegaOT-Light.ttf') format('truetype');     
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: Alega OT;
+  src: url('typos/Alega OT/AlegaOT-Lightlta.eot');
+  src: url('typos/Alega OT/AlegaOT-Lightlta.eot') format('☺'),
+       url('typos/Alega OT/AlegaOT-Lightlta.ttf') format('truetype');     
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: Corporate;
+  src: url('typos/Co Headline Corporate OT/CoHeadline_Corp_Lt/CoHeadline_Corp_lt.eot');
+  src: url('typos/Co Headline Corporate OT/CoHeadline_Corp_Lt/CoHeadline_Corp_lt.eot') format('☺'),
+ url('typos/Alega OT/AlegaOT-Lightlta.ttf') format('truetype');     
+  font-weight: lighter;
+  font-style: normal;
+}
+@font-face {
+  font-family: Corporate;
+  src: url('typos/Co Headline Corporate OT/CoHeadline_Corp_Bd/CoHeadline_Corp_Bd.eot');
+  src: url('typos/Co Headline Corporate OT/CoHeadline_Corp_Bd/CoHeadline_Corp_Bd.eot') format('☺'),
+  url('typos/Co Headline Corporate OT/CoHeadline_Corp_Bd/CoHeadline_Corp_Bd.ttf') format('truetype');     
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: Corporate;
+  src: url('typos/Co Headline Corporate OT/CoHeadline_Corp_Rg/CoHeadline_Corp_Rg.eot');
+  src: url('typos/Co Headline Corporate OT/CoHeadline_Corp_Rg/CoHeadline_Corp_Rg.eot') format('☺'),
+  url('typos/Co Headline Corporate OT/CoHeadline_Corp_Rg/CoHeadline_Corp_Rg.ttf') format('truetype');     
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: Conduit;
+  src: url('typos/Conduit Complete Pack ITC/ConduitITCstd-Black.eot');
+  src: url('typos/Conduit Complete Pack ITC/ConduitITCstd-Black.eot') format('☺'),
+  url('typos/Conduit Complete Pack ITC/ConduitITCstd-Black.otf') format('opentype');     
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: Conduit;
+  src: url('typos/Conduit Complete Pack ITC/ConduitITCstd-Bold.eot');
+  src: url('typos/Conduit Complete Pack ITC/ConduitITCstd-Bold.eot') format('☺'),
+  url('typos/Conduit Complete Pack ITC/ConduitITCstd-Bold.otf') format('opentype');     
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: Conduit;
+  src: url('typos/Conduit Complete Pack ITC/ConduitITCstd-Boldlta.eot');
+  src: url('typos/Conduit Complete Pack ITC/ConduitITCstd-Boldlta.eot') format('☺'),
+  url('typos/Conduit Complete Pack ITC/ConduitITCstd-Boldlta.otf') format('opentype');     
+  font-weight: bolder;
+  font-style: normal;
+}
+@font-face {
+  font-family: Conduit;
+  src: url('typos/Conduit Complete Pack ITC/ConduitITCstd-Light.eot');
+  src: url('typos/Conduit Complete Pack ITC/ConduitITCstd-Light.eot') format('☺'),
+  url('typos/Conduit Complete Pack ITC/ConduitITCstd-Light.otf') format('opentype');     
+  font-weight:lighter;
+  font-style: normal;
+}
+@font-face {
+  font-family: Conduit;
+  src: url('typos/Conduit Complete Pack ITC/ConduitITCstd-ExtraLight.eot');
+  src: url('typos/Conduit Complete Pack ITC/ConduitITCstd-ExtraLight.eot') format('☺'),
+  url('typos/Conduit Complete Pack ITC/ConduitITCstd-ExtraLight.otf') format('opentype');     
+  font-weight:100;
+  font-style: normal;
+}
+@font-face {
+  font-family: Neue Helvetica;
+  src: url('typos/Neue Helvetica/OpenType Std/HelveticaNeueLtStd-Bd.eot');
+  src: url('typos/Neue Helvetica/OpenType Std/HelveticaNeueLtStd-Bd.eot') format('☺'),
+  url('typos/Neue Helvetica/OpenType Std/HelveticaNeueLtStd-Bd.otf') format('opentype');     
+  font-weight:bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: Neue Helvetica;
+  src: url('typos/Neue Helvetica/OpenType Std/HelveticaNeueLtStd-Md.eot');
+  src: url('typos/Neue Helvetica/OpenType Std/HelveticaNeueLtStd-Md.eot') format('☺'),
+  url('typos/Neue Helvetica/OpenType Std/HelveticaNeueLtStd-Md.otf') format('opentype');     
+  font-weight:normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: Neue Helvetica;
+  src: url('typos/Neue Helvetica/OpenType Std/HelveticaNeueLtStd-Lt.eot');
+  src: url('typos/Neue Helvetica/OpenType Std/HelveticaNeueLtStd-Lt.eot') format('☺'),
+  url('typos/Neue Helvetica/OpenType Std/HelveticaNeueLtStd-Lt.otf') format('opentype');     
+  font-weight:lighter;
+  font-style: normal;
+}
+@font-face {
+  font-family: Neue Helvetica;
+  src: url('typos/Neue Helvetica/OpenType Std/HelveticaNeueLtStd-BdEx.eot');
+  src: url('typos/Neue Helvetica/OpenType Std/HelveticaNeueLtStd-BdEx.eot') format('☺'),
+  url('typos/Neue Helvetica/OpenType Std/HelveticaNeueLtStd-BdEx.otf') format('opentype');     
+  font-weight:bolder;
+  font-style: normal;
+}
+@font-face {
+  font-family: Neue Helvetica;
+  src: url('typos/Neue Helvetica/OpenType Std/HelveticaNeueLtStd-LtEx.eot');
+  src: url('typos/Neue Helvetica/OpenType Std/HelveticaNeueLtStd-LtEx.eot') format('☺'),
+  url('typos/Neue Helvetica/OpenType Std/HelveticaNeueLtStd-LtEx.otf') format('opentype');     
+  font-weight:400;
+  font-style: normal;
+}
+@font-face {
+  font-family: Neue Helvetica;
+  src: url('typos/Neue Helvetica/OpenType Std/HelveticaNeueLtStd-LtExO.eot');
+  src: url('typos/Neue Helvetica/OpenType Std/HelveticaNeueLtStd-LtExO.eot') format('☺'),
+  url('typos/Neue Helvetica/OpenType Std/HelveticaNeueLtStd-LtExO.otf') format('opentype');     
+  font-weight:2 00;
+  font-style: normal;
+}

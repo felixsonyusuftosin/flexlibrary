@@ -1,0 +1,82 @@
+/*reponsive.................................................................................................................................. */
+
+
+/*
+pc - a class to only describe on screens as large as a desktop
+nopc - display on pc is none
+.tb - a class to only describe on screens as large as a tablet
+.mb a class to only describe on screens as large as a phone
+.body centralizes view port for mobile devices
+
+
+*/
+
+@media only screen
+and (min-width : 1025px) { /* Desktop */
+.pc{display:inherit!important;} .tb{display:none!important;} .lg{display:inherit!important;} .mb{display:none!important;}
+.pc{display:inherit!important;}
+.nopc{display:none!important;}
+.body{width:600px!important; max-width:600px!important; height:100%;  margin:0 auto;}
+.bar{width:600px!important; max-width:600px!important;   margin:0 auto;}
+.max {max-width:500px;}
+/*forms */
+
+}
+/*......................desktop ends..................*/
+/*.......................mobile.....................*/
+@media only screen
+and (min-device-width : 320px) 
+
+and (max-device-width : 480px) {/*mobile*/
+/*.col-xs{margin:0px;}*/
+.mb{display:none!important;} .tb{display:none!important;} .lg{display:none!important;} .pc{display:none!important;} .pconly{display:none;}
+.mb{display:inherit!important;}
+.nomb{display:none!important;}
+  
+.body{width:100%; }
+.max {max-width:500px;}
+body { min-height:540px; }   
+.leftbar{width:100%!important;}
+.body{margin-left:0px!important;}
+.body{width:100%; height:100%; max-width:650px; margin:0 auto;}
+body[orient="portrait"] { min-height:540px; }
+body[orient="landscape"] { min-height:400px; }
+
+}
+/*...............mobile ends..........................*/
+/*................................tabs......................*/
+@media only screen
+and (min-device-width : 481px) 
+and (max-device-width : 1024px){ /* Tablet */
+.tb{display:inherit!important;} .tb{display:inherit!important;} .lg{display:none!important;} .pc{display:none!important;} .pconly{display:none;} .mb{display:none!important;}
+.tb{display:inherit!important;}
+.leftbar{width:25%;} .body{width:75%; margin-left:25%;}
+.notb{display:none!important;}
+.body{width:600px; height:100%; height:100%; min-height:800px; max-width:600px; margin:0 auto;}
+.bar{width:600px!important; max-width:600px!important;   margin:0 auto;}
+.max {width:100%; max-width:500px;}
+}
+/*.................tabs end.......................*/
+/*.....................large screens..............*/
+@media only screen
+and (min-width : 1824px) {/*largescreens*/
+html{width:100%; background:#d2d2d2;}
+/*body{margin:auto 0px; max-width:1025px;}*/
+.pc{display:inherit!important;} .tb{display:none!important;} .lg{display:inherit!important;} .mb{display:none!important;}
+.pc{display:inherit!important;}
+.body{width:600px!important;  max-width:600px!important; height:100%;  min-height:600px; margin:0 auto;}
+.bar{width:600px!important; max-width:600px!important;   margin:0 auto;}
+.max {max-width:500px;}
+}
+/*....................largescreen ends................*/
+
+/* responsive ....................ends........................................*/
+/*leaflet*/
+.leaflet-container .leaflet-control-attribution, .leaflet-container .leaflet-control-attribution, .leaflet-container .leaflet-control-scale {
+  opacity:0!important; width:0px; height:0px!important;
+}
+.leaflet-google-layer{z-index: 10 !important;}.leaflet-map-pane{ z-index: 1000;}.leaflet-google-layer{z-index: 10 !important;}.leaflet-map-pane{ z-index: 100;}
+#map{width:100%; height:100%;} /*.leaflet-pane, .leaflet-layer, .leaflet-tile-container{width:100%; height:100%;}*/
+.easy-button-button .button-state{overflow:hidden;}
+
+
